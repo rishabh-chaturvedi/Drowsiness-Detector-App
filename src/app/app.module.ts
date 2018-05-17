@@ -16,12 +16,7 @@ import { FcmProvider } from '../providers/fcm/fcm';
 import { AngularFirestore } from 'angularfire2/firestore';
 
 const firebase = {
-  apiKey : "AIzaSyCyK8p5X5KC9pFim4GytpgXMMD2NRuDMi8",
-  authDomain : "drowsinessdetection-36b42.firebaseapp.com",
-  databaseURL : "https://drowsinessdetection-36b42.firebaseio.com",
-  projectId : "drowsinessdetection-36b42",
-  storageBucket : "drowsinessdetection-36b42.appspot.com",
-  messagingSenderId : "64141615861"
+ //your credentials
 
 }
 
